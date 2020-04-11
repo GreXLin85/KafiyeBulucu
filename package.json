@@ -1,0 +1,15 @@
+{
+  "name": "kafiyebulucu",
+  "version": "1.0.0",
+  "description": "Kafiye Bulucu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js --unhandled-rejections=strict"
+  },
+  "author": "GreXLin85",
+  "license": "MIT",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.7",
+    "yargs": "^15.3.1"
+  }
+}
